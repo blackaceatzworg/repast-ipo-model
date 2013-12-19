@@ -1,0 +1,8 @@
+INFO  [AWT-EventQueue-0] 2013-12-19 18:33:03,881 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /Users/haochen/Workspace/ipo-model/output/config.props
+INFO  [AWT-EventQueue-0] 2013-12-19 18:33:04,545 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/Users/haochen/Workspace/ipo-model/batch/batch_params.xml to
+	/var/folders/ck/w0v2pnjs07v_4wj4zcyxlwp80000gp/T/unrolledParamFile.txt
+INFO  [AWT-EventQueue-0] 2013-12-19 18:33:48,667 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /Users/haochen/Workspace/ipo-model/output/config.props
+INFO  [AWT-EventQueue-0] 2013-12-19 18:33:48,683 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/Users/haochen/Workspace/ipo-model/batch/batch_params.xml to
+	/var/folders/ck/w0v2pnjs07v_4wj4zcyxlwp80000gp/T/unrolledParamFile.txt

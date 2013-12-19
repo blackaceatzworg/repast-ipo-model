@@ -1,0 +1,11 @@
+model.archive = /Users/haochen/Workspace/ipo-model/output/complete_model.jar
+batch.params.file = scenario.rs/batch_params.xml
+ssh.key_dir = /Users/haochen/.ssh
+poll.frequency = 60.0
+model.output = /Users/haochen/Workspace/ipo-model/output
+
+vm.arguments = -Xmx512M
+local.0.instances = 7
+local.0.working_directory = /var/folders/ck/w0v2pnjs07v_4wj4zcyxlwp80000gp/T/
+local.1.instances = 7
+local.1.working_directory = /var/folders/ck/w0v2pnjs07v_4wj4zcyxlwp80000gp/T/
